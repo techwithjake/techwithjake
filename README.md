@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @techwithjake
-- 👀 I’m interested in ... helping writing technical documentation and doing Quality Assurance on applications.
-- 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... open source applications.
 - 📫 How to reach me ... info at techwithjake dot com
 
